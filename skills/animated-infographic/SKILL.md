@@ -50,3 +50,32 @@ that can be previewed in Claude Artifacts when supported.
 
 Explain that exporting to MP4 may require
 an additional recording or rendering tool.
+
+<box border radius="lg" padding={3} gap={2}>
+  <row align="center" justify="betw
+
+## Audio and Music
+
+- Offer optional background music appropriate to the topic, audience, and mood.
+- Provide Play, Pause, Mute, and Volume controls.
+- Support user-supplied audio files or legally licensed audio URLs when supported by the Artifact environment.
+- Do not claim that music or narration has been generated unless playable audio is actually available.
+- Offer optional Arabic or English narration scripts with timing cues.
+- Synchronize animation scenes with available narration and sound effects.
+- Follow browser autoplay restrictions; start audio only after user interaction when required.
+- If audio generation or playback is unavailable, explain the limitation and provide a practical external production workflow.
+- Never use copyrighted music without appropriate permission.
+
+- ## Audio and Music
+
+- Offer optional background music appropriate to the topic, audience, and mood.
+- Provide Play, Pause, Mute, and Volume controls.
+- Support user-supplied audio files or legally licensed audio URLs when supported by the Artifact environment.
+- Do not claim that music or narration has been generated unless playable audio is actually available.
+- Offer optional Arabic or English narration scripts with timing cues.
+- Synchronize animation scenes with available narration and sound effects.
+- Follow browser autoplay restrictions; start audio only after user interaction when required.
+- If audio generation or playback is unavailable, explain the limitation and provide a practical external production workflow.
+- Never use copyrighted music without appropriate permission.
+
+- </box>
