@@ -79,3 +79,63 @@ an additional recording or rendering tool.
 - Never use copyrighted music without appropriate permission.
 
 - </box>
+## AI Music and Voice-over System
+
+### Audio Options
+
+Before generating an animated infographic, ask the user
+to select audio preferences.
+
+For background music, offer:
+1. Generate AI background music using the user's own
+   connected audio generation service.
+2. Upload an existing music file.
+3. No background music.
+
+For voice-over, offer:
+1. Generate AI narration using the user's own
+   connected text-to-speech service.
+2. Upload an existing voice recording.
+3. Generate a narration script without audio.
+4. No narration.
+
+### Security and Account Protection
+
+- Never use the plugin creator's personal ElevenLabs account.
+- Never embed API keys, tokens, or credentials in the plugin.
+- Never ask users to paste API keys into chat.
+- Each user must authorize their own audio service connection.
+- Never send audio generation requests through a shared
+  account without explicit authorization.
+- Do not expose credentials in generated HTML or JavaScript.
+
+### Audio Generation
+
+When a compatible audio generation tool is connected:
+- Generate background music matching the infographic's theme.
+- Generate Arabic or English narration as requested.
+- Allow users to select voice style, language, and mood.
+- Synchronize available audio with infographic scenes.
+- Provide Play, Pause, Mute, and Volume controls.
+
+When audio generation tools are unavailable:
+- Explain that automatic audio generation requires
+  a compatible connected service.
+- Offer a complete narration script with timing cues.
+- Allow users to provide their own audio files.
+- Never claim that audio was generated if it was not.
+
+### Audio Quality
+
+- Keep narration clear and understandable.
+- Reduce music volume during narration.
+- Avoid abrupt audio transitions.
+- Respect copyright and audio licensing.
+- Support Arabic pronunciation and RTL content.
+
+### Export
+
+- Generate an interactive HTML infographic with audio
+  playback when supported.
+- Explain that MP4 export may require an additional
+  recording or rendering tool.
