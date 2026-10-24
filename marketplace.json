@@ -1,0 +1,13 @@
+{
+  "name": "al-hashemi-media-tools",
+  "owner": {
+    "name": "Dr. Mahmood Al-Hashemi"
+  },
+  "plugins": [
+    {
+      "name": "al-hashemi-infographic-studio",
+      "source": "./",
+      "description": "Create Arabic/English infographics and animated visual explainers."
+    }
+  ]
+}
